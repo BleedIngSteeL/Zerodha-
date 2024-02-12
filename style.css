@@ -1,0 +1,39 @@
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    box-shadow: 2px 1px 2px #eee;
+    
+}
+.list{
+    display: flex; 
+    color: #666;
+    font-size: 20px;
+}
+.hehe{
+    padding:15px;
+    cursor: pointer;
+}
+
+.pic1{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+
+}
+
+.signup_button{
+    display: flex;
+    justify-content: center;
+}
+
+.signup_button div{
+    background-color: #387ed1;
+    padding: 10px 30px 10px 30px;
+    cursor: pointer;
+    font-size: 20px;
+    color: white;
+    border-radius: 3px;
+}
